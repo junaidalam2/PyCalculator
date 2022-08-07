@@ -1,6 +1,6 @@
 
 # Four-Function Calculator
-A calculator with a GUI with four operators: add, subtract, multiple and divide.
+A GUI-based calculator application with four operators: add, subtract, multiply and divide.
 
 
 
@@ -15,7 +15,7 @@ A calculator with a GUI with four operators: add, subtract, multiple and divide.
 
 
 ## Installation
-Installation of Python is required. Tkinter is the library used for the GUI and it is pre-installed on Python. Python will operate on a standard IDE. 
+Installation of Python is required. Tkinter is the library used for the GUI and it is pre-installed in Python. Python will operate on a standard IDE. 
 
 ## Author
 
